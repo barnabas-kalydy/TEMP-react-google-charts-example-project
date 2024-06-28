@@ -3,6 +3,7 @@ import React from "react";
 import { Chart } from "react-google-charts";
 
 function App() {
+  // random módosítás
   const data = [
     ["Dinosaur", "Length"],
     ["Acrocanthosaurus (top-spined lizard)", 12.2],
